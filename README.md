@@ -1,2 +1,2 @@
 # hello-world
-A re[psitory
+A repository
